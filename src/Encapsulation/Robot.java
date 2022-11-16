@@ -1,3 +1,5 @@
+package Encapsulation;
+
 public class Robot {
     private String name;
     private int madeYear;
